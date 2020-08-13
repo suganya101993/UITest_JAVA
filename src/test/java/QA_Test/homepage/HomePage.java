@@ -1,6 +1,6 @@
-package com.QA_Test.homepage;
+package QA_Test.homepage;
 
-import com.QA_Test.basepage.BasePage;
+import QA_Test.basepage.BasePage;
 import org.junit.Assert;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;

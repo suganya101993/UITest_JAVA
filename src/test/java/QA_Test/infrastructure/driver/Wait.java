@@ -1,4 +1,4 @@
-package com.QA_Test.infrastructure.driver;
+package QA_Test.infrastructure.driver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

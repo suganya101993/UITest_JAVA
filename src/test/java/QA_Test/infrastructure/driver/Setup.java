@@ -1,4 +1,4 @@
-package com.QA_Test.infrastructure.driver;
+package QA_Test.infrastructure.driver;
 
 import io.cucumber.java.Before;
 import org.openqa.selenium.WebDriver;

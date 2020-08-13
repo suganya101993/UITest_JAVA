@@ -1,4 +1,4 @@
-package com.QA_Test.homepage;
+package QA_Test.homepage;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

@@ -1,7 +1,7 @@
-package com.QA_Test.basepage;
+package QA_Test.basepage;
 
-import com.QA_Test.infrastructure.driver.Setup;
-import com.QA_Test.infrastructure.driver.Wait;
+import QA_Test.infrastructure.driver.Wait;
+import QA_Test.infrastructure.driver.Setup;
 import org.openqa.selenium.WebDriver;
 public class BasePage {
 
